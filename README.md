@@ -1,5 +1,5 @@
 ```markdown
-# **Eat-express-pipeline**
+# Eat-express-pipeline
 
 A data ingestion and processing pipeline for food-order records. This repository contains:
 - An interactive exploration notebook (exp.ipynb) that inspects and cleans sample data (food_daily.csv) using pandas.
